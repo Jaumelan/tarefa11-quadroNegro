@@ -1,0 +1,65 @@
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url(../assets/img/bg4.jpg);
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    text-align: center;
+    color: rgb(231, 180, 39);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height:max-content;
+    gap: 10%;
+}
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    color: rgb(10, 10, 10);
+    margin-right: 3%;
+}
+
+#instructions {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    color: rgb(10, 10, 10);
+}
+
+#quadroNegro {
+    width: 55%;
+    background-color: black;
+    height: 650px;
+    line-height: 20px;
+    font-family: 'Walter Turncoat', cursive;
+    color: white;
+    word-wrap: break-word;
+    font-size: 130%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    border: 20px rgb(218, 129, 27) solid;
+}
+
+#result {
+    margin-top: 3%;
+    color: rgb(10, 10, 10);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 150%;
+    background-color: rgba(233, 227, 227, 0.534);
+}
+

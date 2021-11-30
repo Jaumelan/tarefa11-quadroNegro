@@ -1,0 +1,1 @@
+indique quantas vezes deseja que Bart escreva no quado negro a frase
